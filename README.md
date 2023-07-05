@@ -1,2 +1,1 @@
-# welogin-php
-Php login
+# ElasticBeanstalk-PHP
